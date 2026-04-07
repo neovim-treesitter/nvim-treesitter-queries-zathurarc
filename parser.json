@@ -1,7 +1,6 @@
 {
-  "lang": "zathurarc",
   "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc",
   "semver": false,
   "parser_version": "0554b4a5d313244b7fc000cbb41c04afae4f4e31",
-  "location": null
+  "lang": "zathurarc"
 }
